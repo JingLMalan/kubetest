@@ -1,4 +1,5 @@
 通过此文件夹创建kubernetes
 通过此文件夹创建docker swarm
 通过此文件夹联系DOCKERFILE配置镜像
-DOCKERFILE 字段说明 
+DOCKERFILE 字段说明
+通过此文件还需要了解RANCHER
