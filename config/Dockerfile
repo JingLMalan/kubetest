@@ -87,3 +87,5 @@ RUN --mount=type=secret, id=mysecret cat /run/secrets/mysecret
 RUN --mount=type=secret, id=mysecret,dst=/foobar cat /foobar 
 # show secrets from orgranbar secret location
 RUN --mount=type=secret, id=mysecrets cat /runsecrets/mysecrets
+# show secrets from orgranbar secret location
+RUN --mount=type=secret, id=mysecret cat /run/secrets/mysecretss 
