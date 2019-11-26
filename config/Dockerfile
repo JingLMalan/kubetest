@@ -82,8 +82,6 @@ ONBUILD ADD source dest
 FROM alpine:3.5
 
 # show secrets from custom secret location
-RUN --mount=type=secret, id=mysecret,dst=/foobar cat /foobar 
-# show secrets from orgranbar secret location
-RUN --mount=type=secret, id=mysecret cat /run/secrets/mysecretss 
+RUN --mount=type=secret, id=mysecret,dst=/foobar cat /foobar
 # show secrets from orgranbar secret lo
 RUN --mount=type=secret, id=mysecrets cat /run/secrets/mysecret
