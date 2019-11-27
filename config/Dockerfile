@@ -83,3 +83,5 @@ FROM alpine:3.5
 
 # show secrets from custom secret location
 RUN --mount=type=secret, id=mysecret,dst=/foobar cat /foobar
+
+FROM node:latest
