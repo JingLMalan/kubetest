@@ -4,3 +4,4 @@
 DOCKERFILE 字段说明
 通过此文件还需要了解RANCHER
 通过此文件还需要了解Dokcer swarm
+进一步了解docker下的nginx和redis的配置和使用
