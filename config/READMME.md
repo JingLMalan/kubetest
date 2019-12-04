@@ -5,4 +5,10 @@ DOCKERFILE 字段说明
 通过此文件还需要了解RANCHER
 通过此文件还需要了解Dokcer swarm
 进一步了解docker下的nginx和redis的配置和使用
+<<<<<<< HEAD
 阅读浙江大学Docker书籍
+=======
+在容器中运行httpd服务
+直接拉取项目会出现：connect refused 的错误，需要排查
+通过Kubernetes来管理docker集群
+>>>>>>> 8137a53cba68d4ae1301b37a46f67b6e092a1c5c
