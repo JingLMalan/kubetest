@@ -1,4 +1,4 @@
-通过此文件夹创建kubernetes
+通此文件夹创建kubernetes
 通过此文件夹创建docker swarm
 通过此文件夹联系DOCKERFILE配置镜像
 DOCKERFILE 字段说明
@@ -11,4 +11,5 @@ DOCKERFILE 字段说明
 在容器中运行httpd服务
 直接拉取项目会出现：connect refused 的错误，需要排查
 通过Kubernetes来管理docker集群
+熟悉其他集群管理方案
 >>>>>>> 8137a53cba68d4ae1301b37a46f67b6e092a1c5c
