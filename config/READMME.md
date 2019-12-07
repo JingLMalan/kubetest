@@ -12,4 +12,5 @@ DOCKERFILE 字段说明
 直接拉取项目会出现：connect refused 的错误，需要排查
 通过Kubernetes来管理docker集群
 熟悉其他集群管理方案
+通过docker搭建集群架构来获取量化投资数据挖掘
 >>>>>>> 8137a53cba68d4ae1301b37a46f67b6e092a1c5c
