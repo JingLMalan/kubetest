@@ -12,3 +12,4 @@ DOCKERFILE 字段说明
 熟悉其他集群管理方案
 通过docker搭建集群架构来获取量化投资数据挖掘
 通过docker和matlab来获取数学模型
+通过docker和kubernetes来搭建容器化集群
