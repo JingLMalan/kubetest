@@ -14,3 +14,4 @@ DOCKERFILE 字段说明
 通过docker和kubernetes来搭建容器化集群
 通过docker封装python项目
 通过docker封装c++项目
+如何把项目进行合理的拆封然后分别通过docker进行包裹运行
