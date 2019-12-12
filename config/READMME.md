@@ -15,3 +15,4 @@ DOCKERFILE 字段说明
 通过docker封装python项目
 通过docker封装c++项目
 如何把项目进行合理的拆封然后分别通过docker进行包裹运行
+如何解决不同项目的容器通信
