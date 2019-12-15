@@ -11,6 +11,9 @@ DOCKERFILE 字段说明
 熟悉其他集群管理方案
 通过docker搭建集群架构来获取量化投资数据挖掘
 通过docker和matlab来获取数学模型
+<<<<<<< HEAD
+通过docker构建核心中台系统
+=======
 通过docker和kubernetes来搭建容器化集群
 通过docker封装python项目
 通过docker封装c++项目
@@ -18,3 +21,4 @@ DOCKERFILE 字段说明
 如何解决不同项目的容器通信
 如何解决项目资源的版权问题
 如何解决数据中台的组织结构问题
+>>>>>>> e3a27fa205dbff12fe4fdaed77486b8f41b8e7e8
