@@ -1,4 +1,4 @@
-通此文件夹创建docker swarm
+通文件夹创建docker swarm
 通过此文件夹联系DOCKERFILE配置镜像
 DOCKERFILE 字段说明
 通过此文件还需要了解RANCHER
@@ -21,4 +21,5 @@ DOCKERFILE 字段说明
 如何解决数据中台的组织结构问题
 如何通过UML构建系统设计
 如何进行良好的数据库设计
+通过UML进行良好的软件架构和系统架构设计
 
