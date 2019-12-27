@@ -1,4 +1,4 @@
-通文件夹创建docker swarm
+通件夹创建docker swarm
 通过此文件夹联系DOCKERFILE配置镜像
 DOCKERFILE 字段说明
 通过此文件还需要了解RANCHER
@@ -27,3 +27,4 @@ DOCKERFILE 字段说明
 学习C++语言的构建工具
 构建深度云计算平台
 C++和JAVA程序设计
+系统架构设计
