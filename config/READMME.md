@@ -29,6 +29,7 @@ DOCKERFILE 字段说明
 C++和JAVA程序设计
 使用fluuter进行app界面设计
 系统架构设计
+通过图结构构建整个电影数据库
 构建区块链，人工智能，云计算平台
 通过fluuter来构建移动端用户界面
 通过fluuter animation来创建精美的用户体验
